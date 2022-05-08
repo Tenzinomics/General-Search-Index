@@ -1,4 +1,4 @@
-# General-Search-Index
+
 
 # General-Search-Index
 General Search Index (GSI) pulls data from google trend and creates a search index for a topic of the users choice.
