@@ -1,7 +1,7 @@
 
 
-# General-Search-Index
-General Search Index (GSI) pulls data from google trend and creates a search index for a topic of the users choice.
+# Google-Search-Index
+Google Search Index (GSI) pulls data from google trend and creates a search index for a topic of the users choice.
 
 Note that the project is still being worked on so this is not the final verion yet.
 
